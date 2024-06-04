@@ -1,5 +1,5 @@
 {
-  "next": "http://api.v2.dev.clickasnap.com/feeds/my-feed/?page=2",
+  "next": "http://mock.clickasnap.com/feeds/my-feed/?page=2",
   "previous": null,
   "current_page": 1,
   "page_size": 10,
